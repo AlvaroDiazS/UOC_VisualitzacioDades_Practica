@@ -5,7 +5,7 @@ library(readxl)
 rm(list = ls())
 
 #directori per si no es fa servir el projecte
-#setwd("/Users/alvar/Documents/UOC/4 Visualitzacio de dades/PRA1/")
+#setwd("/Users/alvar/Documents/Github/UOC_VisualitzacioDades_Practica")
 
 #Preparació dades població ----
 #llegir dades + elegir columnes
