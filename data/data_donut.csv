@@ -1,0 +1,236 @@
+"","nom_comarca","nom_naturalesa","nom_ensenyament","assignacions totals","prim_peti","% 1a assig"
+"1","Alt Camp","Privat","Educacio infantil 2n cicle",100,96,96
+"2","Alt Camp","Privat","Educacio primaria",7,6,85.7
+"3","Alt Camp","Privat","Educacio secundaria obligatoria",13,8,61.5
+"4","Alt Camp","Public","Educacio infantil 2n cicle",303,283,93.4
+"5","Alt Camp","Public","Educacio primaria",25,23,92
+"6","Alt Camp","Public","Educacio secundaria obligatoria",425,415,97.6
+"7","Alt Emporda","Privat","Educacio infantil 2n cicle",176,168,95.5
+"8","Alt Emporda","Privat","Educacio primaria",19,18,94.7
+"9","Alt Emporda","Privat","Educacio secundaria obligatoria",54,42,77.8
+"10","Alt Emporda","Public","Educacio infantil 2n cicle",1156,1079,93.3
+"11","Alt Emporda","Public","Educacio primaria",82,65,79.3
+"12","Alt Emporda","Public","Educacio secundaria obligatoria",1396,1286,92.1
+"13","Alt Penedes","Privat","Educacio infantil 2n cicle",209,203,97.1
+"14","Alt Penedes","Privat","Educacio primaria",13,9,69.2
+"15","Alt Penedes","Privat","Educacio secundaria obligatoria",42,35,83.3
+"16","Alt Penedes","Public","Educacio infantil 2n cicle",822,791,96.2
+"17","Alt Penedes","Public","Educacio primaria",71,54,76.1
+"18","Alt Penedes","Public","Educacio secundaria obligatoria",961,905,94.2
+"19","Alt Urgell","Privat","Educacio infantil 2n cicle",43,40,93
+"20","Alt Urgell","Privat","Educacio primaria",8,6,75
+"21","Alt Urgell","Privat","Educacio secundaria obligatoria",6,2,33.3
+"22","Alt Urgell","Public","Educacio infantil 2n cicle",108,84,77.8
+"23","Alt Urgell","Public","Educacio primaria",12,11,91.7
+"24","Alt Urgell","Public","Educacio secundaria obligatoria",185,179,96.8
+"25","Alta Ribagorca","Public","Educacio infantil 2n cicle",23,22,95.7
+"26","Alta Ribagorca","Public","Educacio primaria",2,2,100
+"27","Alta Ribagorca","Public","Educacio secundaria obligatoria",54,54,100
+"28","Anoia","Privat","Educacio infantil 2n cicle",300,293,97.7
+"29","Anoia","Privat","Educacio primaria",37,27,73
+"30","Anoia","Privat","Educacio secundaria obligatoria",173,163,94.2
+"31","Anoia","Public","Educacio infantil 2n cicle",839,800,95.4
+"32","Anoia","Public","Educacio primaria",129,101,78.3
+"33","Anoia","Public","Educacio secundaria obligatoria",1073,1033,96.3
+"34","Bages","Privat","Educacio infantil 2n cicle",474,428,90.3
+"35","Bages","Privat","Educacio primaria",28,27,96.4
+"36","Bages","Privat","Educacio secundaria obligatoria",202,175,86.6
+"37","Bages","Public","Educacio infantil 2n cicle",1186,1128,95.1
+"38","Bages","Public","Educacio primaria",116,99,85.3
+"39","Bages","Public","Educacio secundaria obligatoria",1480,1378,93.1
+"40","Baix Camp","Privat","Educacio infantil 2n cicle",558,538,96.4
+"41","Baix Camp","Privat","Educacio primaria",56,49,87.5
+"42","Baix Camp","Privat","Educacio secundaria obligatoria",125,90,72
+"43","Baix Camp","Public","Educacio infantil 2n cicle",1328,1229,92.5
+"44","Baix Camp","Public","Educacio primaria",103,79,76.7
+"45","Baix Camp","Public","Educacio secundaria obligatoria",1670,1577,94.4
+"46","Baix Ebre","Privat","Educacio infantil 2n cicle",72,70,97.2
+"47","Baix Ebre","Privat","Educacio primaria",7,7,100
+"48","Baix Ebre","Privat","Educacio secundaria obligatoria",43,33,76.7
+"49","Baix Ebre","Public","Educacio infantil 2n cicle",604,583,96.5
+"50","Baix Ebre","Public","Educacio primaria",45,31,68.9
+"51","Baix Ebre","Public","Educacio secundaria obligatoria",643,619,96.3
+"52","Baix Emporda","Privat","Educacio infantil 2n cicle",255,226,88.6
+"53","Baix Emporda","Privat","Educacio primaria",14,13,92.9
+"54","Baix Emporda","Privat","Educacio secundaria obligatoria",138,132,95.7
+"55","Baix Emporda","Public","Educacio infantil 2n cicle",942,883,93.7
+"56","Baix Emporda","Public","Educacio primaria",83,68,81.9
+"57","Baix Emporda","Public","Educacio secundaria obligatoria",1201,1082,90.1
+"58","Baix Llobregat","Privat","Educacio infantil 2n cicle",1830,1757,96
+"59","Baix Llobregat","Privat","Educacio primaria",122,91,74.6
+"60","Baix Llobregat","Privat","Educacio secundaria obligatoria",598,543,90.8
+"61","Baix Llobregat","Public","Educacio infantil 2n cicle",5281,4867,92.2
+"62","Baix Llobregat","Public","Educacio primaria",380,255,67.1
+"63","Baix Llobregat","Public","Educacio secundaria obligatoria",6874,6370,92.7
+"64","Baix Penedes","Privat","Educacio infantil 2n cicle",172,167,97.1
+"65","Baix Penedes","Privat","Educacio primaria",49,49,100
+"66","Baix Penedes","Privat","Educacio secundaria obligatoria",36,36,100
+"67","Baix Penedes","Public","Educacio infantil 2n cicle",786,747,95
+"68","Baix Penedes","Public","Educacio primaria",93,65,69.9
+"69","Baix Penedes","Public","Educacio secundaria obligatoria",1011,968,95.7
+"70","Barcelones","Privat","Educacio infantil 2n cicle",8352,7782,93.2
+"71","Barcelones","Privat","Educacio primaria",1560,1073,68.8
+"72","Barcelones","Privat","Educacio secundaria obligatoria",3441,2681,77.9
+"73","Barcelones","Public","Educacio infantil 2n cicle",9637,8688,90.2
+"74","Barcelones","Public","Educacio primaria",751,394,52.5
+"75","Barcelones","Public","Educacio secundaria obligatoria",8917,7875,88.3
+"76","Bergueda","Privat","Educacio infantil 2n cicle",76,75,98.7
+"77","Bergueda","Privat","Educacio primaria",11,11,100
+"78","Bergueda","Privat","Educacio secundaria obligatoria",47,45,95.7
+"79","Bergueda","Public","Educacio infantil 2n cicle",208,206,99
+"80","Bergueda","Public","Educacio primaria",17,15,88.2
+"81","Bergueda","Public","Educacio secundaria obligatoria",319,307,96.2
+"82","Cerdanya","Privat","Educacio infantil 2n cicle",22,20,90.9
+"83","Cerdanya","Privat","Educacio primaria",3,3,100
+"84","Cerdanya","Privat","Educacio secundaria obligatoria",2,2,100
+"85","Cerdanya","Public","Educacio infantil 2n cicle",113,107,94.7
+"86","Cerdanya","Public","Educacio primaria",16,15,93.8
+"87","Cerdanya","Public","Educacio secundaria obligatoria",117,117,100
+"88","Conca de Barber","Privat","Educacio infantil 2n cicle",48,48,100
+"89","Conca de Barber","Privat","Educacio primaria",13,12,92.3
+"90","Conca de Barber","Privat","Educacio secundaria obligatoria",8,8,100
+"91","Conca de Barber","Public","Educacio infantil 2n cicle",115,104,90.4
+"92","Conca de Barber","Public","Educacio primaria",11,11,100
+"93","Conca de Barber","Public","Educacio secundaria obligatoria",170,167,98.2
+"94","Garraf","Privat","Educacio infantil 2n cicle",238,224,94.1
+"95","Garraf","Privat","Educacio primaria",7,6,85.7
+"96","Garraf","Privat","Educacio secundaria obligatoria",59,53,89.8
+"97","Garraf","Public","Educacio infantil 2n cicle",911,837,91.9
+"98","Garraf","Public","Educacio primaria",105,69,65.7
+"99","Garraf","Public","Educacio secundaria obligatoria",1307,1119,85.6
+"100","Garrigues","Privat","Educacio infantil 2n cicle",25,25,100
+"101","Garrigues","Privat","Educacio primaria",0,0,NA
+"102","Garrigues","Privat","Educacio secundaria obligatoria",23,23,100
+"103","Garrigues","Public","Educacio infantil 2n cicle",98,98,100
+"104","Garrigues","Public","Educacio primaria",8,8,100
+"105","Garrigues","Public","Educacio secundaria obligatoria",124,124,100
+"106","Garrotxa","Privat","Educacio infantil 2n cicle",110,106,96.4
+"107","Garrotxa","Privat","Educacio primaria",5,2,40
+"108","Garrotxa","Privat","Educacio secundaria obligatoria",32,20,62.5
+"109","Garrotxa","Public","Educacio infantil 2n cicle",383,365,95.3
+"110","Garrotxa","Public","Educacio primaria",30,27,90
+"111","Garrotxa","Public","Educacio secundaria obligatoria",394,366,92.9
+"112","Girones","Privat","Educacio infantil 2n cicle",479,461,96.2
+"113","Girones","Privat","Educacio primaria",128,111,86.7
+"114","Girones","Privat","Educacio secundaria obligatoria",183,163,89.1
+"115","Girones","Public","Educacio infantil 2n cicle",1525,1430,93.8
+"116","Girones","Public","Educacio primaria",114,81,71.1
+"117","Girones","Public","Educacio secundaria obligatoria",1858,1715,92.3
+"118","Maresme","Privat","Educacio infantil 2n cicle",1138,1020,89.6
+"119","Maresme","Privat","Educacio primaria",127,107,84.3
+"120","Maresme","Privat","Educacio secundaria obligatoria",395,346,87.6
+"121","Maresme","Public","Educacio infantil 2n cicle",2793,2594,92.9
+"122","Maresme","Public","Educacio primaria",308,225,73.1
+"123","Maresme","Public","Educacio secundaria obligatoria",3452,3248,94.1
+"124","Moianes","Privat","Educacio infantil 2n cicle",8,8,100
+"125","Moianes","Privat","Educacio primaria",1,0,0
+"126","Moianes","Public","Educacio infantil 2n cicle",97,96,99
+"127","Moianes","Public","Educacio primaria",7,6,85.7
+"128","Moianes","Public","Educacio secundaria obligatoria",92,91,98.9
+"129","Montsia","Privat","Educacio infantil 2n cicle",63,61,96.8
+"130","Montsia","Privat","Educacio primaria",14,14,100
+"131","Montsia","Privat","Educacio secundaria obligatoria",15,15,100
+"132","Montsia","Public","Educacio infantil 2n cicle",493,470,95.3
+"133","Montsia","Public","Educacio primaria",44,39,88.6
+"134","Montsia","Public","Educacio secundaria obligatoria",584,558,95.5
+"135","Noguera","Privat","Educacio infantil 2n cicle",75,75,100
+"136","Noguera","Privat","Educacio primaria",2,1,50
+"137","Noguera","Privat","Educacio secundaria obligatoria",14,11,78.6
+"138","Noguera","Public","Educacio infantil 2n cicle",219,211,96.3
+"139","Noguera","Public","Educacio primaria",17,11,64.7
+"140","Noguera","Public","Educacio secundaria obligatoria",356,346,97.2
+"141","Osona","Privat","Educacio infantil 2n cicle",466,421,90.3
+"142","Osona","Privat","Educacio primaria",45,37,82.2
+"143","Osona","Privat","Educacio secundaria obligatoria",197,169,85.8
+"144","Osona","Public","Educacio infantil 2n cicle",1055,1017,96.4
+"145","Osona","Public","Educacio primaria",89,73,82
+"146","Osona","Public","Educacio secundaria obligatoria",1277,1202,94.1
+"147","Pallars Jussa","Privat","Educacio infantil 2n cicle",19,19,100
+"148","Pallars Jussa","Privat","Educacio primaria",0,0,NA
+"149","Pallars Jussa","Privat","Educacio secundaria obligatoria",1,1,100
+"150","Pallars Jussa","Public","Educacio infantil 2n cicle",75,75,100
+"151","Pallars Jussa","Public","Educacio primaria",4,4,100
+"152","Pallars Jussa","Public","Educacio secundaria obligatoria",111,110,99.1
+"153","Pallars Sobira","Public","Educacio infantil 2n cicle",53,53,100
+"154","Pallars Sobira","Public","Educacio primaria",6,6,100
+"155","Pallars Sobira","Public","Educacio secundaria obligatoria",64,64,100
+"156","Pla d'Urgell","Privat","Educacio infantil 2n cicle",45,44,97.8
+"157","Pla d'Urgell","Privat","Educacio primaria",0,0,NA
+"158","Pla d'Urgell","Privat","Educacio secundaria obligatoria",89,89,100
+"159","Pla d'Urgell","Public","Educacio infantil 2n cicle",292,283,96.9
+"160","Pla d'Urgell","Public","Educacio primaria",13,11,84.6
+"161","Pla d'Urgell","Public","Educacio secundaria obligatoria",303,293,96.7
+"162","Pla de l'Estany","Privat","Educacio primaria",16,16,100
+"163","Pla de l'Estany","Privat","Educacio secundaria obligatoria",5,3,60
+"164","Pla de l'Estany","Public","Educacio infantil 2n cicle",305,285,93.4
+"165","Pla de l'Estany","Public","Educacio primaria",22,22,100
+"166","Pla de l'Estany","Public","Educacio secundaria obligatoria",360,338,93.9
+"167","Priorat","Public","Educacio infantil 2n cicle",64,64,100
+"168","Priorat","Public","Educacio primaria",8,8,100
+"169","Priorat","Public","Educacio secundaria obligatoria",75,74,98.7
+"170","Ribera d'Ebre","Privat","Educacio infantil 2n cicle",21,21,100
+"171","Ribera d'Ebre","Privat","Educacio primaria",2,2,100
+"172","Ribera d'Ebre","Privat","Educacio secundaria obligatoria",3,3,100
+"173","Ribera d'Ebre","Public","Educacio infantil 2n cicle",156,155,99.4
+"174","Ribera d'Ebre","Public","Educacio primaria",10,10,100
+"175","Ribera d'Ebre","Public","Educacio secundaria obligatoria",119,119,100
+"176","Ripolles","Privat","Educacio infantil 2n cicle",41,41,100
+"177","Ripolles","Privat","Educacio primaria",1,1,100
+"178","Ripolles","Privat","Educacio secundaria obligatoria",20,16,80
+"179","Ripolles","Public","Educacio infantil 2n cicle",138,134,97.1
+"180","Ripolles","Public","Educacio primaria",6,6,100
+"181","Ripolles","Public","Educacio secundaria obligatoria",164,163,99.4
+"182","Segarra","Privat","Educacio infantil 2n cicle",14,12,85.7
+"183","Segarra","Privat","Educacio primaria",0,0,NA
+"184","Segarra","Privat","Educacio secundaria obligatoria",6,6,100
+"185","Segarra","Public","Educacio infantil 2n cicle",154,141,91.6
+"186","Segarra","Public","Educacio primaria",11,8,72.7
+"187","Segarra","Public","Educacio secundaria obligatoria",211,201,95.3
+"188","Segria","Privat","Educacio infantil 2n cicle",486,456,93.8
+"189","Segria","Privat","Educacio primaria",63,58,92.1
+"190","Segria","Privat","Educacio secundaria obligatoria",156,133,85.3
+"191","Segria","Public","Educacio infantil 2n cicle",1395,1320,94.6
+"192","Segria","Public","Educacio primaria",76,56,73.7
+"193","Segria","Public","Educacio secundaria obligatoria",1731,1630,94.2
+"194","Selva","Privat","Educacio infantil 2n cicle",229,205,89.5
+"195","Selva","Privat","Educacio primaria",39,38,97.4
+"196","Selva","Privat","Educacio secundaria obligatoria",30,24,80
+"197","Selva","Public","Educacio infantil 2n cicle",1210,1147,94.8
+"198","Selva","Public","Educacio primaria",101,86,85.1
+"199","Selva","Public","Educacio secundaria obligatoria",1609,1480,92
+"200","Solsones","Privat","Educacio infantil 2n cicle",50,50,100
+"201","Solsones","Privat","Educacio primaria",1,0,0
+"202","Solsones","Privat","Educacio secundaria obligatoria",47,47,100
+"203","Solsones","Public","Educacio infantil 2n cicle",110,105,95.5
+"204","Solsones","Public","Educacio primaria",7,6,85.7
+"205","Solsones","Public","Educacio secundaria obligatoria",99,99,100
+"206","Tarragones","Privat","Educacio infantil 2n cicle",617,593,96.1
+"207","Tarragones","Privat","Educacio primaria",81,69,85.2
+"208","Tarragones","Privat","Educacio secundaria obligatoria",115,97,84.3
+"209","Tarragones","Public","Educacio infantil 2n cicle",1722,1611,93.6
+"210","Tarragones","Public","Educacio primaria",145,121,83.4
+"211","Tarragones","Public","Educacio secundaria obligatoria",2182,2067,94.7
+"212","Terra Alta","Public","Educacio infantil 2n cicle",65,65,100
+"213","Terra Alta","Public","Educacio primaria",4,4,100
+"214","Terra Alta","Public","Educacio secundaria obligatoria",76,76,100
+"215","Urgell","Privat","Educacio infantil 2n cicle",95,95,100
+"216","Urgell","Privat","Educacio primaria",6,4,66.7
+"217","Urgell","Privat","Educacio secundaria obligatoria",20,20,100
+"218","Urgell","Public","Educacio infantil 2n cicle",230,226,98.3
+"219","Urgell","Public","Educacio primaria",14,12,85.7
+"220","Urgell","Public","Educacio secundaria obligatoria",359,338,94.2
+"221","Val d'Aran","Public","Educacio infantil 2n cicle",68,68,100
+"222","Val d'Aran","Public","Educacio primaria",3,3,100
+"223","Val d'Aran","Public","Educacio secundaria obligatoria",80,80,100
+"224","Valles Occident","Privat","Educacio infantil 2n cicle",2679,2582,96.4
+"225","Valles Occident","Privat","Educacio primaria",362,309,85.4
+"226","Valles Occident","Privat","Educacio secundaria obligatoria",1027,927,90.3
+"227","Valles Occident","Public","Educacio infantil 2n cicle",5943,5614,94.5
+"228","Valles Occident","Public","Educacio primaria",402,249,61.9
+"229","Valles Occident","Public","Educacio secundaria obligatoria",7115,6576,92.4
+"230","Valles Oriental","Privat","Educacio infantil 2n cicle",742,706,95.1
+"231","Valles Oriental","Privat","Educacio primaria",36,32,88.9
+"232","Valles Oriental","Privat","Educacio secundaria obligatoria",181,158,87.3
+"233","Valles Oriental","Public","Educacio infantil 2n cicle",2985,2794,93.6
+"234","Valles Oriental","Public","Educacio primaria",335,242,72.2
+"235","Valles Oriental","Public","Educacio secundaria obligatoria",4017,3662,91.2
