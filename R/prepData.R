@@ -2,6 +2,8 @@
 library(tidyverse)
 library(readxl)
 
+#comentari
+
 rm(list = ls())
 
 #directori per si no es fa servir el projecte
